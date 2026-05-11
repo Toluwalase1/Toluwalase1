@@ -1,6 +1,7 @@
 # Hi There!
 
 ![](https://github.com/Toluwalase1/Toluwalase1/blob/main/guia.png)
+<img align="center" src="https://github.com/Toluwalase1/Toluwalase1/blob/main/guia.png" />
 
 ### Systems Thinker · Full-Stack Engineer · Builder
 
