@@ -1,16 +1,56 @@
-## Hi there 👋
+# Toluwalase Badejo
+### Systems Thinker · Full-Stack Engineer · Builder
 
-<!--
-**Toluwalase1/Toluwalase1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that solve real-world problems.  
+My focus is combining software engineering, AI, finance, and product thinking into scalable products people actually use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning Approach
+
+```
+learn → build → break → rebuild
+```
+
+Real learning comes from building repeatedly, understanding fundamentals, breaking systems intentionally, and rebuilding from first principles.
+
+---
+
+## Current Projects
+
+### Glass · [glasspay.app](https://glasspay.app)
+Transparent dues management for Nigerian associations — alumni networks, cooperatives, churches, professional bodies. Append-only ledger, multi-tenant isolation, automated billing, and governance workflows built for communities that need to trust the numbers.  
+`Next.js · Node.js · MongoDB · BullMQ · Redis · Paystack · RBAC`
+
+### AI-Enhanced Complaint System
+Modern complaint management with RAG chatbot, AI summaries, role-based workflows, and an analytics pipeline. Full-stack TypeScript from top to bottom.  
+`TypeScript · LangChain · Vector Search · LLM integrations`
+
+### Trading & Quant Systems
+Exploring strategy automation, market analysis, AI-assisted trading workflows, and execution dashboards. Early-stage, high curiosity.  
+`Quantitative thinking · Automation · Execution systems`
+
+---
+
+## What I Work On
+
+**AI + Full-Stack** — React/Next.js frontends, scalable backends, AI workflows, data pipelines, automation systems.
+
+**FinTech Infrastructure** — Payment systems, trading infrastructure, financial automation, transparent transaction architectures.
+
+**System Design** — Breaking complex systems into components, scalable architecture, tradeoffs, flows, bottlenecks, abstractions.
+
+---
+
+## Stack
+
+`Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `PostgreSQL` `Redis` `BullMQ` `LangChain` `Vector Search` `Paystack` `TailwindCSS` `JWT/RBAC`
+
+---
+
+## Connect
+
+- LinkedIn: [https://www.linkedin.com/in/olorunfunmi-badejo-003a85274]
+- Portfolio: [https://badejoolorunfunmi.vercel.app/]
+
+---
