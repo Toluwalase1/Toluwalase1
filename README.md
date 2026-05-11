@@ -18,16 +18,12 @@ Real learning comes from building repeatedly, understanding fundamentals, breaki
 
 ## Current Projects
 
-### Glass · [glasspay.app](https://glasspay.app)
-Transparent dues management for Nigerian associations — alumni networks, cooperatives, churches, professional bodies. Append-only ledger, multi-tenant isolation, automated billing, and governance workflows built for communities that need to trust the numbers.  
-`Next.js · Node.js · MongoDB · BullMQ · Redis · Paystack · RBAC`
-
 ### AI-Enhanced Complaint System
-Modern complaint management with RAG chatbot, AI summaries, role-based workflows, and an analytics pipeline. Full-stack TypeScript from top to bottom.  
-`TypeScript · LangChain · Vector Search · LLM integrations`
+Modern complaint management with RAG chatbot, AI summaries, role-based workflows, and an analytics pipeline.   
+`Javascript · LangChain · Vector Search · LLM integrations`
 
 ### Trading & Quant Systems
-Exploring strategy automation, market analysis, AI-assisted trading workflows, and execution dashboards. Early-stage, high curiosity.  
+Exploring strategy automation, market analysis, AI-assisted trading workflows, and execution dashboards.  
 `Quantitative thinking · Automation · Execution systems`
 
 ---
@@ -36,21 +32,13 @@ Exploring strategy automation, market analysis, AI-assisted trading workflows, a
 
 **AI + Full-Stack** — React/Next.js frontends, scalable backends, AI workflows, data pipelines, automation systems.
 
-**FinTech Infrastructure** — Payment systems, trading infrastructure, financial automation, transparent transaction architectures.
-
 **System Design** — Breaking complex systems into components, scalable architecture, tradeoffs, flows, bottlenecks, abstractions.
 
 ---
 
 ## Stack
 
-`Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `PostgreSQL` `Redis` `BullMQ` `LangChain` `Vector Search` `Paystack` `TailwindCSS` `JWT/RBAC`
+`Next.js` `React` `TypeScript` `Node.js` `Express` `MongoDB` `PostgreSQL` `LangChain` `TailwindCSS` 
 
 ---
 
-## Connect
-
-- LinkedIn: [https://www.linkedin.com/in/olorunfunmi-badejo-003a85274]
-- Portfolio: [https://badejoolorunfunmi.vercel.app/]
-
----
